@@ -1,3 +1,5 @@
-#print all number from 1 to 10 using loop using python
-for i in range(1, 11):
+#print all number from 1 to 10 using while loop using python
+i = 1
+while i <= 10:
     print(i)
+    i += 1
