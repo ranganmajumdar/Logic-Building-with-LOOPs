@@ -1,4 +1,4 @@
-#check if it is an amstrong number or not
+#check if it is an armstrong number or not
 num = int(input("Enter a number: "))
 original_num = num
 sum_of_cubes = 0
