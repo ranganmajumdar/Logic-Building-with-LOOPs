@@ -1,8 +1,10 @@
-# calculate and print the factorial of a number using while loop
+# print the value of the factorial using do while loop
 n = int(input("Enter a number: "))
 factorial = 1
 temp = n
-while temp > 0:
+while True:
     factorial *= temp
     temp -= 1
+    if temp <= 0:
+        break
 print(f"The factorial of {n} is {factorial}")

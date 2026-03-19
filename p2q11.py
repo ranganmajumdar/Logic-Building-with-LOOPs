@@ -1,0 +1,1 @@
+# print the HCF of given numbers using do while loop
