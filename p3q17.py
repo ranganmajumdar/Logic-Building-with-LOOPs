@@ -1,4 +1,7 @@
-# Print the cube of each number from 1 to n using a for loop.
-n = int(input("Enter a number: "))
-for i in range(1, n + 1):
-    print(f"The cube of {i} is {i ** 3}")
+#Print all numbers between a and b that are divisible by 7 bu using a for loop.
+a = int(input("Enter the value of a: "))
+b = int(input("Enter the value of b: "))
+print(f"Numbers between {a} and {b} that are divisible by 7:")
+for i in range(a, b + 1):
+    if i % 7 == 0:
+        print(i)

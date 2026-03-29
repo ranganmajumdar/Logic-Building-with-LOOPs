@@ -1,7 +1,6 @@
-#Print all numbers between a and b that are divisible by 7 bu using a for loop.
-a = int(input("Enter the value of a: "))
-b = int(input("Enter the value of b: "))
-print(f"Numbers between {a} and {b} that are divisible by 7:")
-for i in range(a, b + 1):
-    if i % 7 == 0:
-        print(i)
+#Find and print the sum of the first n natural numbers using a for loop.
+n = int(input("Enter a number: "))
+total_sum = 0
+for i in range(1, n + 1):
+    total_sum += i
+print(f"The sum of the first {n} natural numbers is: {total_sum}")
