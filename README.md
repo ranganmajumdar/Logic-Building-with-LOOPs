@@ -84,3 +84,59 @@ Phase 3 : For Loop
 19. Find and print the sum of the first n natural numbers.
 20. Find and print the sum of all even numbers from 1 up to n.
 21. Find and print the sum of all odd numbers from 1 up to n.
+
+Phase 4 : Nested Loop Logic
+1. Print the multiplication tables for all numbers from 1 to 10.
+2. Print all possible pairs (i, j) where both i and j range from 1 to n.
+3. For every number from 1 to n, count and print the total number of its factors.
+4. Print all prime numbers up to n using nested loop checking.
+5. Print the Fibonacci pattern row by row, where each row prints the next Fibonacci numbers
+6. Generate and print a number triangle pattern using nested loops.
+7. Print a matrix, then calculate and display the sum of each row and the sum of each column.
+8. Print all Pythagorean triplets whose values are less than or equal to n.
+
+Phase 5: Break / Continue Logic
+
+1. Print numbers from 1 to 100 , and stop the loop as soon as a number divisible by 17 is encountered.
+2. Print numbers from 1 to 100, but skip all numbers that are divisible by 5 and continue printing the rest.
+3. Take 5 numbers as input, skip any number that is 0 using continue, and calculate the sum of the remaining numbers.
+4. Search for a specific number in a list of inputs, and terminate the loop immediately when the number is found.
+5. Keep taking numbers from the user and print them until a negative number appears, then stop the loop.
+6. Skip all odd numbers and print only the even numbers.
+7. Continuously add numbers in a loop and stop the loop when the sum becomes greater than 100
+
+Phase 6 : Mathematical Series
+1. Find and print the sum of the first n natural numbers.
+2. Find and print the sum of the first n even numbers.
+3. Find and print the sum of the first n odd numbers.
+4. Print the first n terms of an arithmetic progression for the given first term and common difference.
+5. Print the first n terms of a geometric progression for the given first term and common ratio.
+6. Print the Fibonacci series up to the required number of terms.
+7. Find and print the sum of the Fibonacci series up to the required number of terms.
+8. Calculate and print the value of the series
+   1² + 2² + 3² + … + n².
+9. Calculate and print the value of the series
+   1³ + 2³ + 3³ + … + n³.
+10. Calculate and print the value of the series
+   1 + 1/2 + 1/3 + … + 1/n.
+11. Print the series of powers of two:
+   1 + 2 + 4 + 8 + … + 2ⁿ.
+12. Calculate and print the value of the series
+   1! + 2! + 3! + … + n!.
+13. Calculate and print the value of the series
+   1 + x + x² + x³ + … + xⁿ.
+14. Calculate and print the value of the series
+   x − x²/2! + x³/3! − x⁴/4! + ….
+15. Check whether the given number is a Strong number, where the number equals the sum of factorials of its digits.
+
+Phase 7 : Mixed Logical Loop Problems
+1. Print all numbers between 1 and 100 whose sum of digits is even.
+2. Count Total numbers between 1 & 500 are divisible by 7 but not divisible by 5.
+3. Print all palindrome numbers between 1 and 500.
+4. Print all numbers from 1 to 100 whose sum of digits is a multiple of 3.
+5. Print all numbers from 1 to n whose binary representation contains an even number of 1s.
+6. Print a pattern where the i-th row prints the value i × i.
+7. Find & print the sum of odd digits & the sum of even digits of the given number.
+8. Print all Armstrong numbers between 1 and 1000.
+9. Print all Perfect numbers between 1 and 1000.
+10. Find the number between 1 and n that has the maximum digit sum, and print that number along with its digit sum.
